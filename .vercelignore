@@ -1,0 +1,9 @@
+node_modules
+__pycache__
+*.pyc
+.env
+credentials.json
+bi-aquisicao-dashboard.html
+server.py
+package.json
+package-lock.json
